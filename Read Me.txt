@@ -1,0 +1,9 @@
+During his long sea voyages, Captain Cook was apparently often absent in the evenings and eventually the crew began to joke that he must have a mistress in his cabin. When they discovered that the Captain had simply been playing this game with the ship's scientists, the game was christened "The Captain's Mistress".
+
+This program uses bitmaps to represent the Board, iterative Search deepening, Alpha-Beta pruning, and Principal Variation search. No positional evaluation is made at the search tree leaves, it simply relies on search depth to find winning combinations. Search depth is about 10 to 12 with a two seconds time check (Advanced level). The program is hard to beat even in Beginner mode.
+
+Human player has yellow and starts. Click on any chip at the top to drop it into the slot beneath. 
+
+The Hint option shows the moves which the computer has worked out for you during HIS search, no search is made especially for YOU; so hints might be "not so good", in particular in loosing situations.
+
+Download is 33 kB.
